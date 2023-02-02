@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingDesktopApp", "PingDesktopApp\PingDesktopApp.csproj", "{7E5E4C1B-84A5-470E-9BB3-E52A3447D2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E5E4C1B-84A5-470E-9BB3-E52A3447D2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5E4C1B-84A5-470E-9BB3-E52A3447D2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5E4C1B-84A5-470E-9BB3-E52A3447D2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5E4C1B-84A5-470E-9BB3-E52A3447D2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6AA855-525C-4246-AE29-596994719E4B}
+	EndGlobalSection
+EndGlobal
